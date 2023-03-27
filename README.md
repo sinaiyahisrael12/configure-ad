@@ -23,5 +23,5 @@ This outlines the implementation of on-premises Active Directory within Azure Vi
 - Step 1 - Create Connectivity between Client and Domain Controller
 - Step 2 - Install Active Directory
 - Step 3 - Create Admin and Normal User Account
-- Step 4 - Setup Remote Desktop for non-admin users
+- Step 4 - Setup Remote Desktop
 - Step 5 - Create Additional Users
